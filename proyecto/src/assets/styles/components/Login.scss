@@ -72,3 +72,14 @@
 .login__container--register a:hover {
   text-decoration: underline;
 }
+
+.button {
+  display: block;
+  padding: 1em;
+  border-radius: 10px;
+  border: none;
+  width: 100%;
+  color: #fff;
+  font-size: 1.2em;
+  background-color: rgba(255, 255, 255 , 0.3);
+}
